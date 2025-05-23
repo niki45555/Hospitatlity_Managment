@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Room-Availability-Checking-during-Reservation-using-SQL
 Project Title: Room Availability Checking during Reservation\
 1. Database Schema Design
@@ -57,3 +58,7 @@ Resources Required
 Access to the hospitality management system codebase.
 Documentation and guidelines for system architecture and database schema.
 Collaboration with database and frontend teams for integration and testing.
+=======
+# Hospitatlity_Managment
+Hospitality Management System Using JDBC 
+>>>>>>> dd2fced5fdaaa8a66a63ceebbcd06ba4c09384e6
